@@ -1,3 +1,3 @@
 # Intelligent-Systems-PCA-for-Classification
 
-The objective was to develop an understanding of linear regression and gradient descent by hand-coding the processes to better understand the functionality as well as the difference in the handling of standardized vs non-standardized data and how the linear regression performed for both. The error function and its performance over different iterations for both standardized and non-standardized data was also observed, with their different shapes and decrease in error being analyzed. Lastly the scikit tools were imported over to make comparison with the hand-coded functions, the hand-coding provided a lower error for standardized data, but the scikit LinearRegression() provided a lower error for non-standardized error.
+
